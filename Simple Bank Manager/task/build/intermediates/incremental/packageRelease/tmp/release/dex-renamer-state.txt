@@ -1,0 +1,4 @@
+#Mon Jul 01 21:10:14 AST 2024
+base.0=/Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

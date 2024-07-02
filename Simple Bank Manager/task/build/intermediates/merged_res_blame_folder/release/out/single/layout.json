@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ericsonmontero/.gradle/daemon/8.7/org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-mergeReleaseResources-32:/layout/fragment_user_menu.xml",
+        "source": "/Users/ericsonmontero/.gradle/daemon/8.7/org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-main-34:/layout/fragment_user_menu.xml"
+    },
+    {
+        "merged": "/Users/ericsonmontero/.gradle/daemon/8.7/org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-mergeReleaseResources-32:/layout/activity_main.xml",
+        "source": "/Users/ericsonmontero/.gradle/daemon/8.7/org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ericsonmontero/.gradle/daemon/8.7/org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-mergeReleaseResources-32:/layout/fragment_view_balance.xml",
+        "source": "/Users/ericsonmontero/.gradle/daemon/8.7/org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-main-34:/layout/fragment_view_balance.xml"
+    },
+    {
+        "merged": "/Users/ericsonmontero/.gradle/daemon/8.7/org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-mergeReleaseResources-32:/layout/fragment_transfer_funds.xml",
+        "source": "/Users/ericsonmontero/.gradle/daemon/8.7/org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-main-34:/layout/fragment_transfer_funds.xml"
+    },
+    {
+        "merged": "org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-mergeReleaseResources-32:/layout/fragment_transfer_funds.xml",
+        "source": "org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-main-34:/layout/fragment_transfer_funds.xml"
+    },
+    {
+        "merged": "/Users/ericsonmontero/.gradle/daemon/8.7/org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-mergeReleaseResources-32:/layout/fragment_login.xml",
+        "source": "/Users/ericsonmontero/.gradle/daemon/8.7/org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-main-34:/layout/fragment_login.xml"
+    }
+]

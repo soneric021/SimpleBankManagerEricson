@@ -1,0 +1,36 @@
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-navigation-common-ktx-2.4.2-0 /Users/ericsonmontero/.gradle/caches/transforms-4/042fb58fe3bc91bf2bdfd6573df7af92/transformed/navigation-common-ktx-2.4.2/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-jetified-viewpager2-1.0.0-1 /Users/ericsonmontero/.gradle/caches/transforms-4/0e36bd2c0d3e620e1e1fe55bf77fcc70/transformed/jetified-viewpager2-1.0.0/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-jetified-appcompat-resources-1.3.1-2 /Users/ericsonmontero/.gradle/caches/transforms-4/1043c4dbe8a7757e4df1f1c1b384c1df/transformed/jetified-appcompat-resources-1.3.1/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-cardview-1.0.0-3 /Users/ericsonmontero/.gradle/caches/transforms-4/35a00593ed84aed9df2d3c0462099828/transformed/cardview-1.0.0/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-jetified-annotation-experimental-1.1.0-4 /Users/ericsonmontero/.gradle/caches/transforms-4/390973f8b8f42c430b9e411814aaf400/transformed/jetified-annotation-experimental-1.1.0/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-jetified-savedstate-1.1.0-5 /Users/ericsonmontero/.gradle/caches/transforms-4/3c363eff34836a6c5858652018570e8d/transformed/jetified-savedstate-1.1.0/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-jetified-core-ktx-1.6.0-6 /Users/ericsonmontero/.gradle/caches/transforms-4/3d10b7499f17fbf0a2d96bfc6db089c4/transformed/jetified-core-ktx-1.6.0/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-navigation-common-2.4.2-7 /Users/ericsonmontero/.gradle/caches/transforms-4/4190e6800e170f182190555593cd256a/transformed/navigation-common-2.4.2/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-core-1.6.0-8 /Users/ericsonmontero/.gradle/caches/transforms-4/44f4ba8dd952333a3f9ee486ba6a4c12/transformed/core-1.6.0/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-navigation-fragment-ktx-2.4.2-9 /Users/ericsonmontero/.gradle/caches/transforms-4/4aac2778db84db3dacfae9e7b7079bf3/transformed/navigation-fragment-ktx-2.4.2/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-lifecycle-viewmodel-2.3.1-10 /Users/ericsonmontero/.gradle/caches/transforms-4/52585b1e8e93a06b9945071f9f5f9953/transformed/lifecycle-viewmodel-2.3.1/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-drawerlayout-1.1.1-11 /Users/ericsonmontero/.gradle/caches/transforms-4/6f28cfbaddda09d06c8a911c90cc6ed1/transformed/drawerlayout-1.1.1/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-navigation-fragment-2.4.2-12 /Users/ericsonmontero/.gradle/caches/transforms-4/7f8dceba5a93da788e4435f9ce427b8f/transformed/navigation-fragment-2.4.2/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-jetified-fragment-ktx-1.4.1-13 /Users/ericsonmontero/.gradle/caches/transforms-4/7fd76002af68de5f4080b2ff7fbc829e/transformed/jetified-fragment-ktx-1.4.1/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-constraintlayout-2.1.3-14 /Users/ericsonmontero/.gradle/caches/transforms-4/80e4d610b56a716dc7f1b88994972477/transformed/constraintlayout-2.1.3/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-appcompat-1.3.1-15 /Users/ericsonmontero/.gradle/caches/transforms-4/89cbe164d8434ef1689f50f458672a44/transformed/appcompat-1.3.1/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-slidingpanelayout-1.2.0-16 /Users/ericsonmontero/.gradle/caches/transforms-4/8ff84cc4666a7a3202403b3b9d4327d8/transformed/slidingpanelayout-1.2.0/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-material-1.4.0-17 /Users/ericsonmontero/.gradle/caches/transforms-4/929883163e9579575ecde34c2c5540c4/transformed/material-1.4.0/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-fragment-1.4.1-18 /Users/ericsonmontero/.gradle/caches/transforms-4/98de6616916fb170785015d11d94b2e5/transformed/fragment-1.4.1/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-navigation-ui-ktx-2.4.2-19 /Users/ericsonmontero/.gradle/caches/transforms-4/9eff521b81f3a5831982735b79771e7d/transformed/navigation-ui-ktx-2.4.2/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-transition-1.4.1-20 /Users/ericsonmontero/.gradle/caches/transforms-4/a8d6ae6b3043ce5e3591e0e82dbc1161/transformed/transition-1.4.1/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-jetified-window-1.0.0-21 /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-recyclerview-1.1.0-22 /Users/ericsonmontero/.gradle/caches/transforms-4/b673d89b43436fb4923212113dabefdb/transformed/recyclerview-1.1.0/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-navigation-runtime-ktx-2.4.2-23 /Users/ericsonmontero/.gradle/caches/transforms-4/c49b6ed7f28ed8612d16c4db11e59d0a/transformed/navigation-runtime-ktx-2.4.2/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-navigation-ui-2.4.2-24 /Users/ericsonmontero/.gradle/caches/transforms-4/ce535b73567db180235b0ddbbd1a288d/transformed/navigation-ui-2.4.2/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-coordinatorlayout-1.1.0-25 /Users/ericsonmontero/.gradle/caches/transforms-4/db12e2b449952c6ff95702e723e51396/transformed/coordinatorlayout-1.1.0/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-navigation-runtime-2.4.2-26 /Users/ericsonmontero/.gradle/caches/transforms-4/e3b8085344ac7b658f384e87fdd346a7/transformed/navigation-runtime-2.4.2/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-lifecycle-runtime-2.3.1-27 /Users/ericsonmontero/.gradle/caches/transforms-4/f4e010ef27dab17a24024084ef9dd6b7/transformed/lifecycle-runtime-2.3.1/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-pngs-28 /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/build/generated/res/pngs/release
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-resValues-29 /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/build/generated/res/resValues/release
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-rs-30 /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/build/generated/res/rs/release
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-mergeReleaseResources-31 /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-mergeReleaseResources-32 /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-merged_res-33 /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/build/intermediates/merged_res/release
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-main-34 /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/res
+org.hyperskill.simplebankmanager.Simple_Bank_Manager-task-release-35 /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/release/res

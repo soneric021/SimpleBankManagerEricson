@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.simplebankmanager.Stage3UnitTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-07-02T01:10:17" hostname="Ericsons-Laptop.local" time="3.462">
+  <properties/>
+  <testcase name="test00_checkNavigationOnViewBalanceButtonClick" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="2.401"/>
+  <testcase name="test01_checkViewBalanceDefaultValues" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.115"/>
+  <testcase name="test02_checkViewBalanceCustomValues" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.078"/>
+  <testcase name="test03_checkNavigationOnTransferFundsClick" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.107"/>
+  <testcase name="test04_checkEmptyAmountTransferError" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.089"/>
+  <testcase name="test05_checkZeroAmountTransferError" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.068"/>
+  <testcase name="test06_checkEmptyAccountTransferError" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.068"/>
+  <testcase name="test07_checkIncorrectAccountTransferError" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.085"/>
+  <testcase name="test08_checkInsufficientFundsToastWithDefaultBalance" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.146"/>
+  <testcase name="test09_checkInsufficientFundsToastWithCustomBalance" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.081"/>
+  <testcase name="test10_checkSuccessfulTransferToastMessageAndReturnToUserMenu" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.133"/>
+  <testcase name="test11_checkUnsuccessfulTransferAfterSuccessfulTransfer" classname="org.hyperskill.simplebankmanager.Stage3UnitTest" time="0.091"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK '/Users/ericsonmontero/.m2/repository/org/robolectric/android-all-instrumented/10-robolectric-5803371-i3/android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

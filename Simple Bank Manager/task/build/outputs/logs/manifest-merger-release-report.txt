@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.databinding:viewbinding:7.4.0] /Users/ericsonmontero/.gradle/caches/transforms-4/f0228a88c47e53b90155b17d9e1b7379/transformed/jetified-viewbinding-7.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/4aac2778db84db3dacfae9e7b7079bf3/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/7f8dceba5a93da788e4435f9ce427b8f/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/ericsonmontero/.gradle/caches/transforms-4/7fd76002af68de5f4080b2ff7fbc829e/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/9eff521b81f3a5831982735b79771e7d/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/c49b6ed7f28ed8612d16c4db11e59d0a/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/ce535b73567db180235b0ddbbd1a288d/transformed/navigation-ui-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/e3b8085344ac7b658f384e87fdd346a7/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/ericsonmontero/.gradle/caches/transforms-4/6b95fa860aa379068c382e6613201f20/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/042fb58fe3bc91bf2bdfd6573df7af92/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/4190e6800e170f182190555593cd256a/transformed/navigation-common-2.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/96bd7da4b6701c76efb12f817b555dc9/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/d89c7265c47b7dedd1150b5eae62b9e8/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/ericsonmontero/.gradle/caches/transforms-4/8ff84cc4666a7a3202403b3b9d4327d8/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/ericsonmontero/.gradle/caches/transforms-4/929883163e9579575ecde34c2c5540c4/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/ericsonmontero/.gradle/caches/transforms-4/80e4d610b56a716dc7f1b88994972477/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/89cbe164d8434ef1689f50f458672a44/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/0e36bd2c0d3e620e1e1fe55bf77fcc70/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/ericsonmontero/.gradle/caches/transforms-4/98de6616916fb170785015d11d94b2e5/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/ericsonmontero/.gradle/caches/transforms-4/3d10b7499f17fbf0a2d96bfc6db089c4/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/ericsonmontero/.gradle/caches/transforms-4/0a1fb635bd83e7e809a81a4049666616/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/1043c4dbe8a7757e4df1f1c1b384c1df/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/db12e2b449952c6ff95702e723e51396/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/2c4d1520145159336c5917f32bb3a2b7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/5832d54db47d8e3aa4dbf2232be07e20/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/556d9bf0be9deb937bae7cdeeccdc07c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/74b2cc4b2a4df45d1d8441144cf9f221/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/87b6bbd1f4381b89db0a9058cbae5292/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/b673d89b43436fb4923212113dabefdb/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ericsonmontero/.gradle/caches/transforms-4/6f28cfbaddda09d06c8a911c90cc6ed1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/62505d468434654570f44c594176267b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/aa6ef13c4d038665e1dc9f0bfe91a7d3/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/ericsonmontero/.gradle/caches/transforms-4/a8d6ae6b3043ce5e3591e0e82dbc1161/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /Users/ericsonmontero/.gradle/caches/transforms-4/44f4ba8dd952333a3f9ee486ba6a4c12/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/2152e40ca0a64301001f18194ee23bef/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/72d8b56a78abf188225b53f5613ba954/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/8e0db3f52c64bcf54e036e5fee3abf6c/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/3c363eff34836a6c5858652018570e8d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/f4e010ef27dab17a24024084ef9dd6b7/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/52585b1e8e93a06b9945071f9f5f9953/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/35a00593ed84aed9df2d3c0462099828/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ericsonmontero/.gradle/caches/transforms-4/f5f988bbe9fc6355cc3bf6021048faa9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/19a0f51830a8992878b69e148477d8cf/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a7644ba18098b81561acff444448c257/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/1aaf2a4e12bc1242e8d5accb218bb11d/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/5dd7e1757f2bf1c39f8a0b735ec543e9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/9ab35ea230d24c0a887452dcb91b53c0/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/0cd558a54ebd2bd79755df42ad141bf2/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/86eb4b98c713c5ca8023f6f32236c4af/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/3eac6e80878edb8d0546b8e11a712648/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/e377c0a7c096d9f1d583ba98e500e13c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/390973f8b8f42c430b9e411814aaf400/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:4:5-47
+		INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+		INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [androidx.window:window:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/ericsonmontero/.gradle/caches/transforms-4/929883163e9579575ecde34c2c5540c4/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/ericsonmontero/.gradle/caches/transforms-4/929883163e9579575ecde34c2c5540c4/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/ericsonmontero/.gradle/caches/transforms-4/80e4d610b56a716dc7f1b88994972477/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/ericsonmontero/.gradle/caches/transforms-4/80e4d610b56a716dc7f1b88994972477/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] /Users/ericsonmontero/.gradle/caches/transforms-4/44f4ba8dd952333a3f9ee486ba6a4c12/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/ericsonmontero/.gradle/caches/transforms-4/44f4ba8dd952333a3f9ee486ba6a4c12/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ericsonmontero/.gradle/caches/transforms-4/f5f988bbe9fc6355cc3bf6021048faa9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ericsonmontero/.gradle/caches/transforms-4/f5f988bbe9fc6355cc3bf6021048faa9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/ericsonmontero/.gradle/caches/transforms-4/44f4ba8dd952333a3f9ee486ba6a4c12/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:7:9-41
+	tools:targetApi
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:10:9-29
+	android:allowBackup
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:9:9-51
+activity#org.hyperskill.simplebankmanager.MainActivity
+ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:11:9-20:20
+	android:exported
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:13:13-36
+	tools:ignore
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:14:13-42
+	android:name
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:12:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.0] /Users/ericsonmontero/.gradle/caches/transforms-4/f0228a88c47e53b90155b17d9e1b7379/transformed/jetified-viewbinding-7.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.0] /Users/ericsonmontero/.gradle/caches/transforms-4/f0228a88c47e53b90155b17d9e1b7379/transformed/jetified-viewbinding-7.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/4aac2778db84db3dacfae9e7b7079bf3/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/4aac2778db84db3dacfae9e7b7079bf3/transformed/navigation-fragment-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/7f8dceba5a93da788e4435f9ce427b8f/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/7f8dceba5a93da788e4435f9ce427b8f/transformed/navigation-fragment-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/ericsonmontero/.gradle/caches/transforms-4/7fd76002af68de5f4080b2ff7fbc829e/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/ericsonmontero/.gradle/caches/transforms-4/7fd76002af68de5f4080b2ff7fbc829e/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/9eff521b81f3a5831982735b79771e7d/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/9eff521b81f3a5831982735b79771e7d/transformed/navigation-ui-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/c49b6ed7f28ed8612d16c4db11e59d0a/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/c49b6ed7f28ed8612d16c4db11e59d0a/transformed/navigation-runtime-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/ce535b73567db180235b0ddbbd1a288d/transformed/navigation-ui-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/ce535b73567db180235b0ddbbd1a288d/transformed/navigation-ui-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/e3b8085344ac7b658f384e87fdd346a7/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/e3b8085344ac7b658f384e87fdd346a7/transformed/navigation-runtime-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/ericsonmontero/.gradle/caches/transforms-4/6b95fa860aa379068c382e6613201f20/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /Users/ericsonmontero/.gradle/caches/transforms-4/6b95fa860aa379068c382e6613201f20/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/042fb58fe3bc91bf2bdfd6573df7af92/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/042fb58fe3bc91bf2bdfd6573df7af92/transformed/navigation-common-ktx-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/4190e6800e170f182190555593cd256a/transformed/navigation-common-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.2] /Users/ericsonmontero/.gradle/caches/transforms-4/4190e6800e170f182190555593cd256a/transformed/navigation-common-2.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/96bd7da4b6701c76efb12f817b555dc9/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/96bd7da4b6701c76efb12f817b555dc9/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/d89c7265c47b7dedd1150b5eae62b9e8/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/d89c7265c47b7dedd1150b5eae62b9e8/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/ericsonmontero/.gradle/caches/transforms-4/8ff84cc4666a7a3202403b3b9d4327d8/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/ericsonmontero/.gradle/caches/transforms-4/8ff84cc4666a7a3202403b3b9d4327d8/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/ericsonmontero/.gradle/caches/transforms-4/929883163e9579575ecde34c2c5540c4/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/ericsonmontero/.gradle/caches/transforms-4/929883163e9579575ecde34c2c5540c4/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/ericsonmontero/.gradle/caches/transforms-4/80e4d610b56a716dc7f1b88994972477/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/ericsonmontero/.gradle/caches/transforms-4/80e4d610b56a716dc7f1b88994972477/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/89cbe164d8434ef1689f50f458672a44/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/89cbe164d8434ef1689f50f458672a44/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/0e36bd2c0d3e620e1e1fe55bf77fcc70/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/0e36bd2c0d3e620e1e1fe55bf77fcc70/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/ericsonmontero/.gradle/caches/transforms-4/98de6616916fb170785015d11d94b2e5/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/ericsonmontero/.gradle/caches/transforms-4/98de6616916fb170785015d11d94b2e5/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/ericsonmontero/.gradle/caches/transforms-4/3d10b7499f17fbf0a2d96bfc6db089c4/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/ericsonmontero/.gradle/caches/transforms-4/3d10b7499f17fbf0a2d96bfc6db089c4/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/ericsonmontero/.gradle/caches/transforms-4/0a1fb635bd83e7e809a81a4049666616/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/ericsonmontero/.gradle/caches/transforms-4/0a1fb635bd83e7e809a81a4049666616/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/1043c4dbe8a7757e4df1f1c1b384c1df/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/1043c4dbe8a7757e4df1f1c1b384c1df/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/db12e2b449952c6ff95702e723e51396/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/db12e2b449952c6ff95702e723e51396/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/2c4d1520145159336c5917f32bb3a2b7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/2c4d1520145159336c5917f32bb3a2b7/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/5832d54db47d8e3aa4dbf2232be07e20/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/5832d54db47d8e3aa4dbf2232be07e20/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/556d9bf0be9deb937bae7cdeeccdc07c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/556d9bf0be9deb937bae7cdeeccdc07c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/74b2cc4b2a4df45d1d8441144cf9f221/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/74b2cc4b2a4df45d1d8441144cf9f221/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/87b6bbd1f4381b89db0a9058cbae5292/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/87b6bbd1f4381b89db0a9058cbae5292/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/b673d89b43436fb4923212113dabefdb/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/b673d89b43436fb4923212113dabefdb/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ericsonmontero/.gradle/caches/transforms-4/6f28cfbaddda09d06c8a911c90cc6ed1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ericsonmontero/.gradle/caches/transforms-4/6f28cfbaddda09d06c8a911c90cc6ed1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/62505d468434654570f44c594176267b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/62505d468434654570f44c594176267b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/aa6ef13c4d038665e1dc9f0bfe91a7d3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/aa6ef13c4d038665e1dc9f0bfe91a7d3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/ericsonmontero/.gradle/caches/transforms-4/a8d6ae6b3043ce5e3591e0e82dbc1161/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/ericsonmontero/.gradle/caches/transforms-4/a8d6ae6b3043ce5e3591e0e82dbc1161/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/ericsonmontero/.gradle/caches/transforms-4/44f4ba8dd952333a3f9ee486ba6a4c12/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/ericsonmontero/.gradle/caches/transforms-4/44f4ba8dd952333a3f9ee486ba6a4c12/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/2152e40ca0a64301001f18194ee23bef/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/2152e40ca0a64301001f18194ee23bef/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/72d8b56a78abf188225b53f5613ba954/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/72d8b56a78abf188225b53f5613ba954/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/8e0db3f52c64bcf54e036e5fee3abf6c/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/8e0db3f52c64bcf54e036e5fee3abf6c/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/3c363eff34836a6c5858652018570e8d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/3c363eff34836a6c5858652018570e8d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/f4e010ef27dab17a24024084ef9dd6b7/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/f4e010ef27dab17a24024084ef9dd6b7/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/52585b1e8e93a06b9945071f9f5f9953/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/52585b1e8e93a06b9945071f9f5f9953/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/35a00593ed84aed9df2d3c0462099828/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/35a00593ed84aed9df2d3c0462099828/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ericsonmontero/.gradle/caches/transforms-4/f5f988bbe9fc6355cc3bf6021048faa9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ericsonmontero/.gradle/caches/transforms-4/f5f988bbe9fc6355cc3bf6021048faa9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/19a0f51830a8992878b69e148477d8cf/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/19a0f51830a8992878b69e148477d8cf/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a7644ba18098b81561acff444448c257/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a7644ba18098b81561acff444448c257/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/1aaf2a4e12bc1242e8d5accb218bb11d/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/1aaf2a4e12bc1242e8d5accb218bb11d/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/5dd7e1757f2bf1c39f8a0b735ec543e9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ericsonmontero/.gradle/caches/transforms-4/5dd7e1757f2bf1c39f8a0b735ec543e9/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/9ab35ea230d24c0a887452dcb91b53c0/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/9ab35ea230d24c0a887452dcb91b53c0/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/0cd558a54ebd2bd79755df42ad141bf2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/0cd558a54ebd2bd79755df42ad141bf2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/86eb4b98c713c5ca8023f6f32236c4af/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/86eb4b98c713c5ca8023f6f32236c4af/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/3eac6e80878edb8d0546b8e11a712648/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/3eac6e80878edb8d0546b8e11a712648/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/e377c0a7c096d9f1d583ba98e500e13c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/e377c0a7c096d9f1d583ba98e500e13c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/390973f8b8f42c430b9e411814aaf400/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ericsonmontero/.gradle/caches/transforms-4/390973f8b8f42c430b9e411814aaf400/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+		INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+		ADDED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+		INJECTED from /Users/ericsonmontero/StudioProjects/Simple Bank Manager/Simple Bank Manager/task/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/ericsonmontero/.gradle/caches/transforms-4/a8dc6f55b4fb8e437d55866285ce3fce/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
